@@ -159,3 +159,8 @@ input[type="submit"]:hover {
     color: #ff2770;
     font-weight: 600;
 }
+
+footer {
+    padding: 50px;
+    margin: 20px;
+}
